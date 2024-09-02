@@ -4,7 +4,7 @@
 	"displayName": "lychee",
 	"description": "A nice lady once said that it was the best",
 	"icon": "icon.png",
-	"version": "1.0.4",
+	"version": "1.1.0",
 	"engines": {
 		"vscode": "^1.49.0"
 	},
