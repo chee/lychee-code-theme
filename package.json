@@ -4,7 +4,7 @@
 	"displayName": "lychee",
 	"description": "a light theme with colours that look  nice to eat",
 	"icon": "icon.png",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"engines": {
 		"vscode": "^1.49.0"
 	},
