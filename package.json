@@ -1,0 +1,45 @@
+{
+	"publisher": "chee",
+	"name": "lychee",
+	"displayName": "lychee",
+	"description": "A nice lady once said that it was the best",
+	"icon": "icon.png",
+	"version": "1.0.4",
+	"engines": {
+		"vscode": "^1.49.0"
+	},
+	"galleryBanner": {
+		"color": "#f9fcff",
+		"theme": "light"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"lychee",
+		"chee",
+		"gay",
+		"rabbits",
+		"cute"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "lychee",
+				"uiTheme": "vs",
+				"path": "./themes/lychee.json"
+			}
+		]
+	},
+	"license": "GPL-3.0+",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/chee/lychee-code-theme"
+	},
+	"bugs": {
+		"url": "https: //github.com/chee/lychee-code-theme/issues"
+	},
+	"devDependencies": {
+		"vsce": "^2.10.0"
+	}
+}
